@@ -1,10 +1,14 @@
 import Home from './Home'
+import Navbar from './layout/Navbar';
+import Footer from './layout/Footer';
 
 function App() {
   return (
     
     <div>
-    <Home />
+    <Navbar/>
+    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+    <Footer/>
     </div>
 
   );
