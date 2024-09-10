@@ -27,7 +27,7 @@ This project was built using the following technologies:
   ![Main](img/main.png)
 - Game:
   ![Game](img/game.png)
-  - Game:
+- Footer:
   ![Footer](img/footer.png)
 
 ## Installation
